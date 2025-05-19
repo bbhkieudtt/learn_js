@@ -20,5 +20,5 @@ const commonStore = useCommonStore()
 </script>
 
 <style lang="scss">
-@import "@/assets/css/index.scss";
+@use "@/assets/css/index.scss";
 </style>

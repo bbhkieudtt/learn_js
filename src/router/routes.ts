@@ -1,4 +1,4 @@
-import Test from '@/views/Test.vue'
+import Test from '@/views/Tanstack.vue'
 
 export const routes = [
   { path: '/', redirect: '/test' },
